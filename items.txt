@@ -1,0 +1,15 @@
+Dragonscale armor;2
+Thor hammer;3
+Excalibur sword;3
+Green Arrow bow;3
+Heavy sword;1
+Leather armor;0
+Light sword;1
+Crossbow;0
+Two handed axe;0
+Viking helmet;2
+Chainmail armor;0
+Dark saber;3
+Lightsaber;2
+Mage robe;0
+Leather gloves;0

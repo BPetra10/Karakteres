@@ -1,0 +1,16 @@
+Dragonscale armor; Epic
+Thor hammer; Legendary
+Excalibur sword; Legendary
+Green Arrow bow; Legendary
+Heavy sword; Rare
+Leather armor; Common
+Light sword; Rare
+Crossbow; Common
+Two handed axe; Common
+Viking helmet; Epic
+Chainmail armor; Common
+Dark saber; Legendary
+Lightsaber; Epic
+Mage robe; Common
+Leather gloves; Common
+ninjakard; Legendary
